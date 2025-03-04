@@ -1,0 +1,1 @@
+Double ratchet algorithm provides end-to-end encryption between two users. The initial connection is established with the help of a simulated third party certificate authority that signs user certificates. After that, double ratchet starts.
